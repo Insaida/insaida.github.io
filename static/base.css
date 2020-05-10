@@ -1,0 +1,25 @@
+@media (min-width: 1200px){
+    .container {
+        max-width: 400px;
+      }
+    }
+
+@media (min-width: 992px){
+.container {
+    max-width: 400px;
+    }
+}
+
+@media (min-width: 768px){
+    .container {
+        max-width: 400px;
+        }
+    }
+
+.container {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+h3 {
+    margin-bottom: 20px;  
+}
